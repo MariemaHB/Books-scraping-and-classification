@@ -11,5 +11,6 @@ altair==4.2.0
 joblib==0.14.1
 pyxlsb==1.0.9
 xlrd==1.2.0
+XlsxWriter==1.2.7
 
 
